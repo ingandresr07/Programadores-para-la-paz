@@ -1,0 +1,12 @@
+¿Por qué es importante que las comunidades o iniciativas ciudadanas
+puedan construir herramientas tecnológicas propias utilizando 
+tecnologías abiertas como Node.js?
+
+Es importante porque permite fortalecer habilidades digitales,
+logrando así mayor participación en las cominidades y acercando
+a los jóvenes a las nuevas tecnologías; a demás, se fortalece el
+pensamiento lógico y computacional propiciando al mejoramiento
+del nivel educativo, cognitivo y funcional de las nuevas generaciones.
+También se recalca la importancia porque una comunidad conectada,
+es una comunidad que mejora la comunicación digital y se logra
+que las personas se pronuncien ante la sociedad.
