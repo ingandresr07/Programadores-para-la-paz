@@ -1,0 +1,3 @@
+Con dada ruta se muestra el mensaje que se programó desde la 
+terminal del github. Por ejemplo, al colocar .../mensaje/Andrés,
+el servidor muestra el mensaje "Hola Andrés.
