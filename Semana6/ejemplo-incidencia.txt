@@ -1,0 +1,15 @@
+Al enviar una respuesta se generó lo siguiente:
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 176
+ETag: W/"b0-QOFrxBajM7SQM1r5aQU3ei0biC8"
+Date: Fri, 03 Jul 2026 22:48:23 GMT
+Connection: close
+
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Daño estructural en vía pública",
+  "descripcion": "La comunidad reporta que se está agrietando una calle principal de su barrio  ."
+}

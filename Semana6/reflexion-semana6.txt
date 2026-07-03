@@ -1,0 +1,9 @@
+¿Por qué es importante que las plataformas tecnológicas puedan recibir reportes o información enviada 
+por los ciudadanos de forma estructurada?
+
+Las plataformas tecnológicas han permitido una mejor conexión entre las entidades y las comunidades,
+permiten que haya una mejor calidad en la información reduciendo ambigüedades, la información
+tiene un procesamiento más rápido y eficiente porque se clasifica, prioriza y enruta automáticamente,
+y gracias a la estructuración de la información, es más fácil hacer seguimiento a cada dato; se pueden 
+analizar patrones, se permite la inclusión y la llegada a más comunidades y la interoperablidad entre
+los sistemas.
