@@ -1,3 +1,20 @@
-¿Cómo podrían las APIs ayudar a que las comunidades compartan
-información, reportes o alertas de manera organizada?
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, reportes o alertas
+de manera organizada?
 
+Permiten centralizar datos dispersos, estandarizar formatos de reportes
+distribución automática de alertas, la interoperabilidad entre
+organizaciones, geolocalización y mapas en tiempo real, el control de acceso y la 
+verificación del mismo, observar el historial y realizar trazabilidad.
+
+
+
+
+
+
+
+
+1. /salirme cd ..
+2. /git status para información del repositorio
+3. /git add .
+4. /git commit -m "Actividad Semana 5"
+5. /git push

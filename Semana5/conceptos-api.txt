@@ -1,0 +1,14 @@
+Al ejecutar el servidor, responde con este mensaje/texto:
+
+
+
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 36
+ETag: W/"24-hCJpvwYa+AkZspG8Ew0AT6fgB1M"
+Date: Fri, 03 Jul 2026 01:40:08 GMT
+Connection: close
+
+Mensaje recibido de mensaje recibido
