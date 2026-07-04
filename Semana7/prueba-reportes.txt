@@ -1,0 +1,17 @@
+Al solicitar el GET se recibió lo siguiente:
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 79
+ETag: W/"4f-64z/9abZGQdlF5D911cUaYWWGB4"
+Date: Sat, 04 Jul 2026 00:17:04 GMT
+Connection: close
+
+[
+  {
+    "id": 1,
+    "tipo": "Infrastructura",
+    "descripcion": "Daño en alumbrado público."
+  }
+]
