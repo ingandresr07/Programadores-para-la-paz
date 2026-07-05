@@ -1,0 +1,21 @@
+1. Sistema operativo
+    Es el software base que administra los recursos del hardware (memoria, procesador, disco) 
+    y permite que las demás aplicaciones, como Node.js, puedan ejecutarse sobre él. Ejemplos: 
+    Windows, Linux, macOS.
+
+2. Node.js
+    Es el entorno de ejecución que permite correr código JavaScript fuera del navegador, 
+    directamente en el servidor. Es lo que hace posible ejecutar aplicaciones como server.js.
+
+3. Aplicación server.js
+    Es el archivo principal que contiene la lógica del servidor: define las rutas, procesa las 
+    peticiones de los usuarios y gestiona las respuestas. Es el "cerebro" de la aplicación backend.
+
+4. Puerto
+    Es el número que identifica el canal de comunicación por el cual la aplicación escucha las 
+    solicitudes (por ejemplo, el 3000 o el 8080). Permite que varias aplicaciones corran en el 
+    mismo servidor sin interferir entre sí.
+
+5. Logs
+    Son los registros que guarda el sistema o la aplicación sobre lo que va sucediendo 
+    (errores, accesos, eventos). Sirven para monitorear el funcionamiento y diagnosticar problemas.
