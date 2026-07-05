@@ -1,0 +1,5 @@
+1. Respetar la politica de tratamiento de datos personales.
+2. Cifrar las credenciales para mayor seguridad.
+3. Usar redes certificadas y confiables que cumplan con estándares de seguridad.
+4. Llevar rgistro de todos los usuarios que se registran e ingresan a la plataforma.
+5. Aplicar el principio de mínimos privilegios para que se limite el acceso a la información delicada.

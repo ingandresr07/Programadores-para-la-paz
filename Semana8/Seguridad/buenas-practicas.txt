@@ -1,0 +1,4 @@
+1. Activar la verificación en dos pasos.
+2. Usar contraseñas alfanuméricas con caractéres especiales.
+3. Mantener los equipos, aplicaciones y programas actualizados.
+4. Usar contraseñas alfanuméricas y que contengan caractéres especiales.

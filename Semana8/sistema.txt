@@ -1,0 +1,12 @@
+1. Qué información muestra cada comando.
+
+    uname -a: MINGW64_NT-10.0-19045 PIPE 3.6.7-fb42d713.x86_64 2026-03-29 11:44 UTC x86_64 Msys
+
+    whoami: PIPE
+
+2. ¿Por qué es útil conocer información del sistema cuando se administra un servidor?
+
+    Porque permite conocer qué programas son compatibles con mi sistema operativo, conocer
+    características importantes y a tener en cuenta para ejecutar y administrar un servidor,
+    también se nos permite conocer las posibles vulnerabilidades de nuestro sistema para
+    evitar ataques cibernéticos.
