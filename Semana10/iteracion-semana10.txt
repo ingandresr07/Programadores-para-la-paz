@@ -1,0 +1,16 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+    Las de prioridad alta y prioridad media, como el reporte del ciudadano y la notificación/aviso de la
+    generación del reporte.
+
+2. ¿Por qué son las más importantes?
+    Porque la primera es el evento que se reportó y se debe atender, y la segunda que es el debido
+    trabajo de revisión por parte de los miembros del equipo para empezarlo a gestionar.
+
+3. ¿Qué significa para ti que una tarea esté “terminada”?
+    Que se atendió la solicitud de manera satisfactoria, dando solución al ciudadano o miembro del
+    equipo aplicando el flujo de trabajo y la respectiva seguimiento y verificación.
+
+4. Escribe una definición simple de terminado con al menos 3 criterios.
+    - Se gestionó.
+    - Se cumplió.
+    - Se tramitó.

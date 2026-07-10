@@ -1,0 +1,8 @@
+[PRIORIDAD ALTA]	Como ciudadano quiero notificar a la autoridad compente fallos en la infrastructura 
+víal para mejorar las condiciones de movilidad.
+
+[PRIORIDAD MEDIA]   Como miembro del equipo de veeduría ciudadana quiero, recibir notificaciones de 
+reportes en mi usuario, para atender cada solicitud.
+
+[PRIORIDAD BAJA]    Como encargado del segimiento de reportes, quiero gestionar las solicitudes no 
+resultas para trabajarlas.
