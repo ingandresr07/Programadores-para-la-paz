@@ -1,0 +1,12 @@
+¿Por qué una plataforma tecnológica que promueve participación ciudadana debe tener base de datos, 
+autenticación de usuarios y protección de información?
+    
+    Las bases de datos permiten la persistencia de la información ya que guardan la información de 
+    manera permanente y organizada los datos, los reportes, los usuarios y su hisorial; ayudan a la
+    trazibilidad de la información ya que permite dar seguimiento al estado de cada reporte.
+    Gracias a la autenticación de los usuarios se puede identificar y distinguir entre disintos
+    tipos de usuarios y permitir el acceso a los permisos según su rol; evita la suplantación
+    y fraude, ya que cualquiera podría suplantar la identidad de otra persona, generar reportes
+    falso o manipular el sistema con identidades duplicadas.
+    Y también con la protección de la información se permite resguardar datos sensibles, cumplir
+    normativas legales y sostener la legitimidad del proceso.

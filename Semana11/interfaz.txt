@@ -1,0 +1,11 @@
+Interfaz simple para la plataforma.
+
+    Formulario para crear una causa: título, descripción, categoría y ubicación, con un botón de 
+    publicación claro.
+    
+    Vista de causas disponibles: lista tipo tarjeta, cada una con su título, ubicación y tiempo 
+    transcurrido desde su publicación, para que sea fácil escanear rápidamente.
+    
+    Botón "Apoyar": acción directa dentro de cada tarjeta, sin necesidad de entrar a otra pantalla.
+    Contador de apoyos: visible junto al botón, mostrando de inmediato cuánto respaldo tiene cada causa, 
+    lo que refuerza la idea de presión social que mencionamos antes.
