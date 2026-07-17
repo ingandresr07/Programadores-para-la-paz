@@ -1,0 +1,13 @@
+1. ¿Qué evento activa la automatización?
+    
+    Ciudadano registró un nuevo reporte.
+
+2. ¿Qué mensaje se envía?
+
+    Se ha generado un reporte nuevo, se recomienda revisar plataforma.
+
+3. ¿Qué información no debería enviarse por seguridad?
+
+    No se deberían enviar datos que vulnere la privacidad y la anonimidad de los ciudadanos, como
+    direcciones, nombres completos, números de documento de identidad, contraseñas, entre otros, ya que
+    son datos sensibles.

@@ -1,0 +1,36 @@
+¿Qué aprendiste durante el curso sobre el uso de la tecnología para fortalecer la participación 
+ciudadana y la organización comunitaria?
+
+    1. La tecnología es un medio, no la solución en sí misma.
+    Antes de escribir una línea de código o diseñar una interfaz, lo primero es entender a la comunidad: 
+    qué necesita, cómo se comunica, qué barreras enfrenta. Las historias de usuario me enseñaron que si 
+    el diseño no parte de la gente real, se corre el riesgo de construir algo técnicamente funcional pero 
+    socialmente inútil.
+
+    2. La participación se sostiene con confianza, y la confianza se construye con infraestructura sólida.
+    Aprendí que aspectos que parecen "solo técnicos" —un servidor estable, una base de datos bien modelada,
+    autenticación de usuarios, protección de la información— son en realidad decisiones profundamente 
+    políticas y sociales. Si la plataforma falla, se filtra información o se cae en el peor momento, no 
+    solo se pierde funcionalidad: se pierde la voluntad de la gente de seguir participando.
+
+    3. La transparencia convierte una herramienta en un mecanismo democrático real.
+    No basta con que la gente pueda enviar reportes o peticiones; necesita poder consultar el estado de 
+    lo que envió y ver que otros también participaron. Esa visibilidad colectiva es lo que transforma una 
+    queja individual en presión social legítima, y lo que le da sentido a la exigibilidad ciudadana.
+
+    4. La simplicidad es una forma de inclusión.
+    Herramientas accesibles —como un formulario claro, un bot de Telegram o un proceso de "3 clics"— 
+    demuestran que muchas veces la inclusión tecnológica no se logra agregando funciones, sino quitando 
+    fricción. Cuantos menos pasos técnicos deba superar una persona, más democrático es el acceso a la 
+    herramienta.
+
+    5. Las metodologías ágiles y la automatización ponen a la comunidad en el centro del proceso.
+    Trabajar en ciclos cortos, con retroalimentación constante de quienes usan la plataforma, evita 
+    construir soluciones desconectadas de la realidad. Y automatizar tareas repetitivas no es solo 
+    eficiencia: libera tiempo humano para lo que realmente importa, que es escuchar, mediar y responder 
+    con criterio.
+
+    6. La seguridad digital es una forma de cuidado, no solo de control.
+    Proteger datos sensibles, evitar la manipulación de reportes y prevenir represalias contra quienes 
+    denuncian no es un requisito técnico adicional: es una responsabilidad ética hacia las personas que 
+    confían su información a la plataforma.

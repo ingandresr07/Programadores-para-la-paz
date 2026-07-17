@@ -1,0 +1,22 @@
+Entidad: Usuario
+
+Campos principales:
+- id: id_usuario
+- titulo: nombre
+- descripcion: identificador único
+- fecha: 20260709_23:59
+
+Propósito:
+Identificar a cada usuario y el registro de su acceso.
+
+
+Entidad: Reporte
+
+Campos principales:
+- id: id_reporte
+- causa_id: 2026_0001
+- usuario: arianoh
+- fecha: 20260710_00:02
+
+Propósito:
+Registrar reportes hechos por los usuarios y la comunidad.
